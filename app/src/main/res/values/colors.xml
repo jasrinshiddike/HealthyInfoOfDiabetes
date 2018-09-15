@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f42078</color>
+    <color name="colorPrimaryDark">#ec0a33</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#04f1f5</color>
+    <color name="yello">#1a1201</color>
+    <color name="green">#00bfa5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="testcolorblue">#586d79</color>
+
+
+
+    <!--For gradient colors-->
+    <color name="start_color">#150aea</color>
+    <color name="center_color">#a1f4dc</color>
+    <color name="end_color">#4ea6e6</color>
+</resources>
